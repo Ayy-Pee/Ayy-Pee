@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayy-Pee
 - 👀 I love CS and PCM!
-- 📚 I know basic Python and I'm currently learning Java.
+- 📚 Python | Java
 - 📫 Reach me - Discord: [AyyPee#5035](https://discord.com/users/932145282236424192)  Twitter: [@_AyyPee](https://twitter.com/_AyyPee)
 
 <!---
