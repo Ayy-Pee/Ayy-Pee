@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayy-Pee
 - 👀 I love CS and PCM!
 - 📚 Python | Java
-- 📫 Reach me - Discord: [AyyPee#5035](https://discord.com/users/932145282236424192)  Twitter: [@_AyyPee](https://twitter.com/_AyyPee)
+- 📫 Contact - Discord: [AyyPee#5035](https://discord.com/users/932145282236424192)  Twitter: [@_AyyPee](https://twitter.com/_AyyPee)
 
 <!---
 Ayy-Pee/Ayy-Pee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
