@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayy-Pee
+- 👋 Hi, I’m Arjun aka AyyPee
 - 👀 I love CS and PCM!
 - 📚 Python | Java
 - 📫 Contact - Discord: [AyyPee#5035](https://discord.com/users/932145282236424192)  Twitter: [@_AyyPee](https://twitter.com/_AyyPee)
